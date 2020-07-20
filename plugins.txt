@@ -1,3 +1,4 @@
+nodejs
 configuration-as-code
 ws-cleanup
 scm-api
